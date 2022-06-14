@@ -10,7 +10,7 @@ tkinter
 ## 概要
 周期または周波数を入力して、変換ボタンを押すと周期⇒周波数、周波数⇒周期に変換された値が出力されます。
 完成したプログラムのGUIはこのようになりました。
-!([GUI_frequency_convert.png.jpg](https://github.com/zume0606/python_frequency_convert/blob/c98925da4da5c2f0451827232d0dcd56e3b1ce7c/GUI_frequency_convert.png.jpg))
+!(https://github.com/zume0606/python_frequency_convert/blob/c98925da4da5c2f0451827232d0dcd56e3b1ce7c/GUI_frequency_convert.png.jpg)
 
 ## プログラム解説
 tkinterを使って

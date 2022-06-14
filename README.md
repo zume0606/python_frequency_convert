@@ -1,1 +1,5 @@
-# python_frequency_convert
+# 周波数周期変換
+
+# 環境
+# 利用ライブラリ
+# 
